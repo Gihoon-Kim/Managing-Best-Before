@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestBefore_Hmart</string>
+    <string name="button_item_add">Add</string>
+    <string name="button_item_delete">Delete</string>
+    <string name="hint_name_of_product">name of product</string>
+    <string name="button_item_cancel">Cancel</string>
+    <string name="hint_item_barcode">Item Barcode</string>
+    <string name="image_hint_item">Item</string>
+</resources>
